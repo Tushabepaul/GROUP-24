@@ -41,12 +41,12 @@ The project timeline starts on Sunday, October 4, 2026. Weekly work is submitted
 
 | Week - Submission checkpoint - Main objective - Required team submission |
 
-| Week 1 - Before Mon, Oct 5 - Confirm design and ownership - Architecture decision, branch setup, interface review, individual plans |
-| Week 2 - Before Mon, Oct 12 - Complete foundations and direct solvers - Vector, Matrix, Gaussian elimination, determinant, inverse, first tests |
-| Week 3 - Before Mon, Oct 19 - Complete decompositions and iterative methods - LU, Cholesky, QR, Gram-Schmidt, Jacobi, Gauss-Seidel, power iteration |
-| Week 4 - Before Mon, Oct 26 - Complete interpolation, integration, fitting, and eigenvalues - All remaining general numerical methods with tests |
-| Week 5 - Before Mon, Nov 2 - Integrate satellite application and stabilize library - RK2/RK4 trajectory propagation, examples, full test run, documentation draft |
-| Final - Thu, Nov 5 - Submit and present complete project - Final source package, reports, final README, AI declaration, GitHub repository |
+| Week 1 | Before Mon, Oct 5 | Confirm design and ownership | Architecture decision, branch setup, interface review, individual plans |
+| Week 2 | Before Mon, Oct 12 | Complete foundations and direct solvers | Vector, Matrix, Gaussian elimination, determinant, inverse, first tests |
+| Week 3 | Before Mon, Oct 19 | Complete decompositions and iterative methods | LU, Cholesky, QR, Gram-Schmidt, Jacobi, Gauss-Seidel, power iteration |
+| Week 4 | Before Mon, Oct 26 | Complete interpolation, integration, fitting, and eigenvalues | All remaining general numerical methods with tests |
+| Week 5 | Before Mon, Nov 2 | Integrate satellite application and stabilize library | RK2/RK4 trajectory propagation, examples, full test run, documentation draft |
+| Final | Thu, Nov 5 | Submit and present complete project | Final source package, reports, final README, AI declaration, GitHub repository |
 
 ## 4. Individual Weekly Deliverables
 
