@@ -25,15 +25,17 @@
 - What was changed: We included our CMake file, report status, team assignments, and also edited the workflow to allign with our needs and proposals.
 
 ## Implementation and Integration Status
-| Vector and Matrix foundations | In Progress. |
-| Gaussian elimination, determinant, inverse | In Progress. |
-| LU, Cholesky, QR, Gram-Schmidt | Not started. |
-| Jacobi, Gauss-Seidel, power iteration | Not started. |
-| Interpolation methods | Not started. |
-| RK2, RK4, Gaussian quadrature, Romberg | Not started. |
-| Least-squares methods | Not started. |
-| Eigenvalue computation | Not started. |
-| Satellite trajectory propagation | Not started. |
-| Examples and data | Not started. |
-| README and documentation | Not started. |
-| Full build and test suite | Not started. |
+| Area | Status | Notes |
+|---|---|---|
+| Vector and Matrix foundations | In progress | |
+| Gaussian elimination, determinant, inverse | In progress | |
+| LU, Cholesky, QR, Gram-Schmidt | Not started | |
+| Jacobi, Gauss-Seidel, power iteration | Not started | |
+| Interpolation methods | Not started | |
+| RK2, RK4, Gaussian quadrature, Romberg | Not started | |
+| Least-squares methods | Not started | |
+| Eigenvalue computation | Not started | |
+| Satellite trajectory propagation | Not started | |
+| Examples and data | Not started | |
+| README and documentation | Not started | |
+| Full build and test suite | Not started | |
