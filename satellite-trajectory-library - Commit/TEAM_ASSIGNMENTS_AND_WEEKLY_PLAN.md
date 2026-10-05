@@ -39,8 +39,8 @@
 
 The project timeline starts on Sunday, October 4, 2026. Weekly work is submitted before each Monday checkpoint.
 
-| Week - Submission checkpoint - Main objective - Required team submission |
-
+| Week | Submission checkpoint | Main objective | Required team submission |
+|---|---|---|---|
 | Week 1 | Before Mon, Oct 5 | Confirm design and ownership | Architecture decision, branch setup, interface review, individual plans |
 | Week 2 | Before Mon, Oct 12 | Complete foundations and direct solvers | Vector, Matrix, Gaussian elimination, determinant, inverse, first tests |
 | Week 3 | Before Mon, Oct 19 | Complete decompositions and iterative methods | LU, Cholesky, QR, Gram-Schmidt, Jacobi, Gauss-Seidel, power iteration |
